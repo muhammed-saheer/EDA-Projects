@@ -18,7 +18,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 2. Phone Usage in India Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Phone Usage in India Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/phone-usage-in-india-analysis)
+- **Project Link**: [Phone Usage in India Analysis](https://www.kaggle.com/code/muhammedsaheerk/phone-usage-in-india-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -28,7 +28,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 3. 2021-22 UCL Goals Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [2021-22 UCL Goals Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/2021-22-ucl-goals-analysis)
+- **Project Link**: [2021-22 UCL Goals Analysis](https://www.kaggle.com/code/muhammedsaheerk/2021-22-ucl-goals-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -38,7 +38,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 4. Supermarket-sales Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Supermarket-sales Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/supermarket-sales-analysis)
+- **Project Link**: [Supermarket-sales Analysis](https://www.kaggle.com/code/muhammedsaheerk/supermarket-sales-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -48,7 +48,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 5. India's Job Market Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [India's Job Market Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/india-s-job-market-analysis)
+- **Project Link**: [India's Job Market Analysis](https://www.kaggle.com/code/muhammedsaheerk/india-s-job-market-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -58,7 +58,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 6. THE World University Rankings Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [THE World University Rankings Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/the-world-university-rankings-analysis)
+- **Project Link**: [THE World University Rankings Analysis](https://www.kaggle.com/code/muhammedsaheerk/the-world-university-rankings-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -68,7 +68,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 7. Amazon-top-selling-books analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Amazon-top-selling-books analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/amazon-top-selling-books-analysis)
+- **Project Link**: [Amazon-top-selling-books analysis](https://www.kaggle.com/code/muhammedsaheerk/amazon-top-selling-books-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -78,7 +78,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 8. Netflix Movies and TV Shows Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Netflix Movies and TV Shows Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/netflix-movies-and-tv-shows-analysis)
+- **Project Link**: [Netflix Movies and TV Shows Analysis](https://www.kaggle.com/code/muhammedsaheerk/netflix-movies-and-tv-shows-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -88,7 +88,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 9. Dmart-products analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Dmart-products analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/dmart-products-analysis)
+- **Project Link**: [Dmart-products analysis](https://www.kaggle.com/code/muhammedsaheerk/dmart-products-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation
@@ -98,7 +98,7 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
 
 ### 10. Swiggy-Restuarant Analysis
 - **Dataset**: Kaggle
-- **Project Link**: [Swiggy-Restuarant Analysis]([your-kaggle-link-here](https://www.kaggle.com/code/muhammedsaheerk/swiggy-restuarant-analysis)
+- **Project Link**: [Swiggy-Restuarant Analysis](https://www.kaggle.com/code/muhammedsaheerk/swiggy-restuarant-analysis)
 - **Libraries Used**: numpy, pandas, matplotlib, seaborn
 - **Steps**:
   1. Data Loading and Preparation

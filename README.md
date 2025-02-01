@@ -104,6 +104,20 @@ This repository contains links to 10 Exploratory Data Analysis (EDA) projects us
   1. Data Loading and Preparation
   2. Data Visualization
   3. Statistical Analysis
+ 
+
+
+## Tools and Technologies
+- **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn
+- **Data Sources**: Kaggle
+- **Environment**: Jupyter Notebook
+
+
+---
+
+Feel free to explore my Kaggle profile for more projects: [Muhammed Saheerk on Kaggle](https://www.kaggle.com/muhammedsaheerk)
+
+---
 
 
 
